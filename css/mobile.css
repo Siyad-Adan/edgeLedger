@@ -1,0 +1,23 @@
+.navbar{
+  flex-direction: column;
+  height:120px;
+  padding: 20px;
+}
+
+.navbar a {
+  padding: 5px 0px;
+  margin: none;
+}
+
+.flex-items {
+  flex-direction: column;
+}
+
+.flex-columns .column, .flex-grid .column {
+  flex: 100%;
+  max-width: 100%;
+}
+
+.team img {
+  width: 70%;
+}
