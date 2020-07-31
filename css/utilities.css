@@ -138,7 +138,7 @@
   padding: 20px 20px 40px;
 }
 
-/* flex grid */
+/* flex grid display with wrapping*/
 
 .flex-grid .row {
   display: flex;
